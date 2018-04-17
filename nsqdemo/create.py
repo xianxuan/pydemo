@@ -1,6 +1,6 @@
 import nsq
 import tornado.ioloop
-import time
+#tornado==4.5.3
 
 def pub_message():
     msg = "nihao"
